@@ -45,11 +45,11 @@
     padding: .2rem;
   }
 
-  #survey-form {
-    background-color: #2222425d;
-    padding: 3rem 2.5rem;
-    border-radius: 7px;
-  }
+#survey-form{
+ background-color: #2222425d;
+ padding: 3rem 3rem;
+ border-radius:8px;
+}
 
   #submit {
     background: #060f0a;
